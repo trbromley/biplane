@@ -2,6 +2,8 @@
 
 Biplane is a 2D flying game, built using LÖVE.
 
+Check it out [here](https://trbromley.github.io/biplane/)!
+
 ![Biplane](images/readme.png)
 
 ## How to run
